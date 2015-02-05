@@ -1,0 +1,1 @@
+Examples from the book Eloquent JS. For learning purpose
